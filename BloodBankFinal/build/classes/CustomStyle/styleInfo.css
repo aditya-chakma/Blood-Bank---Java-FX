@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: #d9d9d9;
+}
+
+.button-blue{
+    -fx-background-color:skyblue;
+    -fx-font-size: 10pt;
+}
+
+.label{
+    -fx-text-fill:brown;
+}

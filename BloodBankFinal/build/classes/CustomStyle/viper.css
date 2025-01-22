@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 6, 2016, 1:28:22 AM
+    Author     : User
+*/
+
+.blue-button{
+    -fx-background-color:skyblue;
+    -fx-font-size: 11pt;
+}
+
+.text{
+    -fx-text-fill:black;
+    -fx-font-size: 15pt;
+/*    -fx-stroke: black; */
+ /*   -fx-stroke-width: 1; */
+}
+
+.text-input:readonly {
+    -fx-background-color: transparent;
+}
